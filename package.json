@@ -1,7 +1,7 @@
 {
   "name": "greekflag.js",
   "version": "0.0.0",
-  "description": "JavaScript HTML5 rendering of a Greek Flag",
+  "description": "JavaScript HTML5 rendering of the Greek Flag",
   "main": "index.html",
   "repository": {
     "type": "git",
