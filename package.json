@@ -1,0 +1,25 @@
+{
+  "name": "greekflag.js",
+  "version": "0.0.0",
+  "description": "JavaScript HTML5 rendering of a Greek Flag",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vasil9v/greekflag.js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Greece",
+    "Ελλάδα",
+    "Ελληνική Δημοκρατία",
+    "Greek",
+    "Greek Flag",
+    "ελληνική σημαία",
+    "Galanolefki",
+    "Kianolefki",
+    "Γαλανόλευκη",
+    "Κυανόλευκη"
+  ],
+  "author": "Vasilios Daskalopoulos (vasil9v)",
+  "license": "MIT"
+}
